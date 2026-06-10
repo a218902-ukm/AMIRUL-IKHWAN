@@ -39,7 +39,6 @@ I enjoy analyzing real-world system mechanics and safety-critical software engin
 ---
 ### 🤝 Connect with Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
+- 📧 **Email:** [a218902@siswa.ukm.edu.my](mailto:a218902@siswa.ukm.edu.my)
 
 ⚡ *Fun fact: I love breaking down complex software systems to figure out exactly how they tick under the hood!*
