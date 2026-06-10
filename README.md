@@ -35,17 +35,8 @@ I am a passionate developer focused on building efficient, reliable, and user-ce
 
 I enjoy analyzing real-world system mechanics and safety-critical software engineering failures to understand how to build more resilient systems. Some areas I've thoroughly researched include:
 * **System Failures:** Deep-dive technical analyses into high-profile incidents like the 2024 CrowdStrike global IT outage and the Boeing 737 MAX MCAS software issues.
-* **Tech Ethics:** The societal impacts of ICT, data privacy in AI systems, and moral responsibility in automation.
-
+* **Tech Ethics:** The societal impacts of ICT, data privacy in AI systems, and moral responsibility in automata
 ---
-
-### 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-
----
-
 ### 🤝 Connect with Me
 
 - 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
